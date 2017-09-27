@@ -4,7 +4,8 @@ MQTT의 QoS 별 성능 테스트코드 입니다.
 
 ## Getting Started
 
-Ec
+Broker를 직접 구현 하거나, test.mosquitto.org 에서 제공해주는 테스트 Broker를 이용합니다.
+
 
 ### Prerequisites
 
